@@ -3,7 +3,7 @@
 ## Progress
 
 Stuff Completed: 1  
-Total Points earned: 200
+Total Points earned: 250
 
 | Date Finished | Activity       | Points | Links                                                                        |
 | ------------- | -------------- | ------ | ---------------------------------------------------------------------------- |
