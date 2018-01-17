@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 4   
-Total Points earned: 350
+Stuff Completed: 5   
+Total Points earned: 400
 
 | Date Finished | Activity       | Points | Links                                                                         |
 | ------------- | -------------- | ------ | ----------------------------------------------------------------------------- |
@@ -11,6 +11,7 @@ Total Points earned: 350
 | 11/01/18      | Open Source PR | 50     | [Update links to Plugins](https://github.com/ianstormtaylor/slate/pull/1522)  |
 | 13/01/18      | Open Source PR | 50     | [Fix broken links on docs](https://github.com/ianstormtaylor/slate/pull/1529) |
 | 13/01/18      | Open Source PR | 50     | [Remove deprecated plugin](https://github.com/ianstormtaylor/slate/pull/1530) |
+| 17/01/18      | Open Source PR | 50     | [Update README.md](https://github.com/P1xt/speedstudy/pull/15) |
 | ------------- | --------       | ------ | -----                                                                         |
 |               |                |        |                                                                               |
 
