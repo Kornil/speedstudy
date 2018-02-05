@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 12
-Total Points earned: 1370
+Stuff Completed: 14
+Total Points earned: 1420
 
 | Date Finished | Activity                | Points | Links                                                                                      |
 | ------------- | ----------------------- | ------ | ------------------------------------------------------------------------------------------ |
@@ -20,6 +20,7 @@ Total Points earned: 1370
 | 20/01/18      | Book                    | 200    | YDKJS - Scope & Closures                                                                   |
 | 28/01/18      | Module to npm           | 200    | [friendly-on-enter](https://github.com/prezly/slate-plugins/tree/master/friendly-on-enter) |
 | 03/02/18      | Physical Activity (1hr) | 20     | First day at the gym!                                                                      |
+| 28/01/18      | Open Source PR          | 50     | [React-sentinel - Update README.md](https://github.com/YurkaninRyan/react-sentinel/pull/1) |
 | ------------- | --------                | ------ | -----                                                                                      |
 
 ~<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>~
