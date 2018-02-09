@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 17
-Total Points earned: 1510
+Stuff Completed: 18
+Total Points earned: 1560
 
 | Date Finished | Activity                | Points | Links                                                                                                     |
 | ------------- | ----------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
@@ -23,7 +23,8 @@ Total Points earned: 1510
 | 03/01/18      | Open Source PR          | 50     | [React-sentinel - Update README.md](https://github.com/YurkaninRyan/react-sentinel/pull/1)                |
 | 06/02/18      | Physical Activity (1hr) | 20     | gym                                                                                                       |
 | 08/02/18      | Physical Activity (1hr) | 20     | gym                                                                                                       |
-| 06/02/18      | Open Source PR          | 50     | [Slate - Fix triple selection extending to next block](https://github.com/ianstormtaylor/slate/pull/1605) |
+| 08/02/18      | Open Source PR          | 50     | [Slate - Fix triple selection extending to next block](https://github.com/ianstormtaylor/slate/pull/1605) |
+| 09/02/18      | Official Docs           | 50     | [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)                                      |
 | ------------- | --------                | ------ | -----                                                                                                     |
 
 ~<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>~
