@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 19
-Total Points earned: 1780
+Stuff Completed: 21
+Total Points earned: 2030
 
 | Date Finished | Activity                | Points | Links                                                                                                     |
 | ------------- | ----------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,9 @@ Total Points earned: 1780
 | 08/02/18      | Open Source PR          | 50     | [Slate - Fix triple selection extending to next block](https://github.com/ianstormtaylor/slate/pull/1605) |
 | 09/02/18      | Official Docs           | 50     | [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)                                      |
 | 10/02/18      | Physical Activity (1hr) | 20     | gym                                                                                                       |
-| 13/02/18      | Module to npm           | 200    | [fake-package-test](https://www.npmjs.com/package/fake-package-test)                |
+| 13/02/18      | Module to npm           | 200    | [fake-package-test](https://www.npmjs.com/package/fake-package-test)                                      |
+| 25/02/18      | Book                    | 200    | YDKJS - This & Object Prototypes                                                                          |
+| 08/02/18      | Open Source PR          | 50     | [Simple-react-app - Add webpack 4](https://github.com/Kornil/simple-react-app/pull/21)                    |
 | ------------- | --------                | ------ | -----                                                                                                     |
 
 ~<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>~
