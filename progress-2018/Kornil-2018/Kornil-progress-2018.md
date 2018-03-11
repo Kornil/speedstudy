@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 21
-Total Points earned: 2030
+Stuff Completed: 22
+Total Points earned: 2230
 
 | Date Finished | Activity                | Points | Links                                                                                                     |
 | ------------- | ----------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
@@ -29,6 +29,7 @@ Total Points earned: 2030
 | 13/02/18      | Module to npm           | 200    | [fake-package-test](https://www.npmjs.com/package/fake-package-test)                                      |
 | 25/02/18      | Book                    | 200    | YDKJS - This & Object Prototypes                                                                          |
 | 08/02/18      | Open Source PR          | 50     | [Simple-react-app - Add webpack 4](https://github.com/Kornil/simple-react-app/pull/21)                    |
+| 08/03/18      | Book                    | 200    | YDKJS - Types & Grammar                                                                                   |
 | ------------- | --------                | ------ | -----                                                                                                     |
 
 ~<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>~
