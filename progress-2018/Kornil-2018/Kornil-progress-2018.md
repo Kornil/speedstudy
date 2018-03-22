@@ -2,8 +2,8 @@
 
 ## Progress
 
-Stuff Completed: 22
-Total Points earned: 2230
+Stuff Completed: 23
+Total Points earned: 2280
 
 | Date Finished | Activity                | Points | Links                                                                                                     |
 | ------------- | ----------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
@@ -30,6 +30,7 @@ Total Points earned: 2230
 | 25/02/18      | Book                    | 200    | YDKJS - This & Object Prototypes                                                                          |
 | 08/02/18      | Open Source PR          | 50     | [Simple-react-app - Add webpack 4](https://github.com/Kornil/simple-react-app/pull/21)                    |
 | 08/03/18      | Book                    | 200    | YDKJS - Types & Grammar                                                                                   |
+| 22/03/18      | Open Source PR          | 50     | [Slatejs - Make serialize/deserialize dev friendlier](https://github.com/ianstormtaylor/slate/pull/1705)  |
 | ------------- | --------                | ------ | -----                                                                                                     |
 
 ~<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>~
