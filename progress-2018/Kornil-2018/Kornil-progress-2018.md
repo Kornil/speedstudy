@@ -3,7 +3,7 @@
 ## Progress
 
 Stuff Completed: 25
-Total Points earned: 2530
+Total Points earned: 2540
 
 | Date         | Activity                | Points | Links                                                                                                           |
 | ------------ | ----------------------- | ------ | --------------------------------------------------------------------------------------------------------------- |
@@ -32,6 +32,7 @@ Total Points earned: 2530
 | 08/03/18     | Book                    | 200    | YDKJS - Types & Grammar                                                                                         |
 | 22/03/18     | Open Source PR          | 50     | [Slatejs - Make serialize/deserialize dev friendlier](https://github.com/ianstormtaylor/slate/pull/1705)        |
 | 08/04/18     | Book                    | 200    | 12 Rules For Life                                                                                               |
+| 10/02/18     | Physical Activity (30m) | 10     | gym                                                                                                             |
 | 22/03/18     | Open Source PR          | 50     | [Draft-js-plugins - Remove duplicate dependency](http://github.com/draft-js-plugins/draft-js-plugins/pull/1068) |
 | ------------ | --------                | ------ | -----                                                                                                           |
 
